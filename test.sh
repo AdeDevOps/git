@@ -1,1 +1,1 @@
-echo 'I love git'
+echo 'Linux, Git, Bash'
